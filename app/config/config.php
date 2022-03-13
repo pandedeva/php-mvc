@@ -1,7 +1,7 @@
 <?php 
 
 // tempelate url
-define('BASEURL', 'http://localhost/phpmvcnew/public');
+define('BASEURL', 'http://localhost:8080/phpmvcnew/public');
 
 // tempelate db
 define('DB_HOST', 'localhost');
